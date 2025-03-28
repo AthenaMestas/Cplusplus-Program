@@ -7,7 +7,7 @@ The program analyzes item frequencies from text files to optimize store layouts.
 - Inventory management
 - General frequency analysis (applicable to any text-based dataset)
 
-# 🗝️Key Features
+## 🗝️Key Features
 - Interactive Menu System
   - Search specific item frequencies
   - Display full frequency reports
@@ -23,10 +23,10 @@ The program analyzes item frequencies from text files to optimize store layouts.
   - Developed file I/O operations for data processing
   - Created visual histogram output
 
-# ⚙️Technologies Used
+## ⚙️Technologies Used
 - Language: C++
 - Tools: Eclipse
-# 📈Future Improvements
+## 📈Future Improvements
 - Enhanced error handling for file operations
 - JSON support for broader compatibility
 - Integration of unit testing
