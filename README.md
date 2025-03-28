@@ -1,4 +1,13 @@
 # Cplusplus-Program
+ -  ds
+
+# Overview:
+
+# Key Features:
+
+# Technologies Used:
+
+
 
 # Summarize the project and what problem it was solving.
 The C++ program was developed to track the frequency of items from a text file for a store's strategic arrangement. Beyond using the program to 
