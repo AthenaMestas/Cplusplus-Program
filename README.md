@@ -1,7 +1,7 @@
 # Cplusplus-Program
 Language: C++
 
-# 💡Overview
+## 💡Overview
 The program analyzes item frequencies from text files to optimize store layouts. The solution tracks product distribution patterns, enabling data-driven decisions for:
 - Strategic product placement
 - Inventory management
